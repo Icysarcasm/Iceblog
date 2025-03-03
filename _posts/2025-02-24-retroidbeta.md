@@ -1,6 +1,6 @@
 ---
 title: Retroid Beta now Online!
-tags: Retroid Milestone
+tags: Retroid Milestone Games
 ---
 Retroid, a Shoot em' up space adventure inspired by "Steredenn" and "1943 Midway Kaisen" is now in it's early beta stages! 
 
