@@ -1,8 +1,8 @@
 ---
-title: Gradi has been Released!
-tags: Gadget Gradi
+title: Gradii has been Released!
+tags: Gadget Screensavii
 ---
-Gradi, a simple gradient screensaver has been released!
+Gradii, a simple gradient screensaver has been released!
 
 Find it on the gadgets page of my main site, or here >>> https://icysarcasm.github.io/Gradi
 
